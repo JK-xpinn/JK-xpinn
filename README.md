@@ -49,6 +49,16 @@ Educational API testing with documented observations, testing methods, and limit
 
 [View Project](https://github.com/JK-xpinn/API-Security-Testing-Findings-ReqRes-API-)
 
+## GitHub Activity
+
+![GitHub profile summary](https://github-readme-stats.vercel.app/api?username=JK-xpinn&show_icons=true&hide_border=true&include_all_commits=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JK-xpinn&layout=compact&hide_border=true)
+
+![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JK-xpinn&hide_border=true)
+
+*These cards are provided by external services and may occasionally be unavailable or take time to update.*
+
 ## Current Development
 
 - Improving application security and penetration testing skills.
